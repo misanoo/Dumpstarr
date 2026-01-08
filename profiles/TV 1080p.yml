@@ -137,7 +137,7 @@ custom_formats_sonarr:
 - name: Repack2
   score: 6
 - name: 7.1 Surround
-  score: 5
+  score: 10
 - name: Repack1
   score: 5
 - name: FLUX
@@ -145,7 +145,7 @@ custom_formats_sonarr:
 - name: NTb
   score: 1
 - name: 5.1 Surround
-  score: 50
+  score: 5
 - name: 2.0 Stereo
   score: 0
 - name: AV1
